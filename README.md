@@ -2,7 +2,7 @@
 
 <a href="https://www.facebook.com/sang.vongoc.3532/"><img align="left" src="https://github.com/sangngoc27042001/Dummy-files/blob/main/facebook.png" alt="Sang Vo | Facebook" width="21px"/></a>
 <a href="https://www.instagram.com/sangvongoc/"><img align="left" src="https://github.com/sangngoc27042001/Dummy-files/blob/main/instagram.png" alt="Sang Vo | Instagram" width="21px"/></a>
-
+<br>
 # 🔭 I'm currently working on
 
 - My Machine Learning project at school
