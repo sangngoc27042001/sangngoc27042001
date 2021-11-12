@@ -1,16 +1,16 @@
-## 🤝 Connect with me:
+# 🤝 Connect with me:
 
 <a href="https://www.facebook.com/sang.vongoc.3532/"><img align="left" src="https://github.com/sangngoc27042001/Dummy-files/blob/main/facebook.png" alt="Sang Vo | Facebook" width="21px"/></a>
 <a href="https://www.instagram.com/sangvongoc/"><img align="left" src="https://github.com/sangngoc27042001/Dummy-files/blob/main/instagram.png" alt="Sang Vo | Instagram" width="21px"/></a>
 <a href="sangngoc27042001@gmail.com"><img align="left" src="https://github.com/sangngoc27042001/Dummy-files/blob/main/gmail.png" alt="Sang Vo | Gmail" width="21px"/></a>
 </br>
 
-## 🔭 I'm currently working on
+# 🔭 I'm currently working on
 
 - My Machine Learning project at school
 - AI project for Rever Inc.
 
-## 💼 Technical Skills
+# 💼 Technical Skills
 ### Language
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -31,7 +31,7 @@
   ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
  
-## 📈 GitHub Stats 
+# 📈 GitHub Stats 
 
 [![Sang's github stats](https://github-readme-stats.vercel.app/api?username=sangngoc27042001)](https://github.com/sangngoc27042001)
 
